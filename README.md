@@ -25,7 +25,7 @@ Based on [Andrej Karpathy's observations](https://x.com/karpathy/status/20158838
 Unlike generic prompt snippets, this repository packages the guidelines as a first-class Antigravity skill using progressive disclosure:
 
 - **`SKILL.md`**: Core operational guidelines and Antigravity tool mappings (`ask_question`, `read_file`, `edit_file`, `run_command`).
-- **`references/examples.md`**: 500+ lines of real-world wrong vs. surgical implementations loaded on-demand by the agent when deeper guidance is required.
+- **`references/examples.md`**: Condensed real-world wrong vs. surgical implementations loaded on-demand by the agent when deeper guidance is required.
 
 ---
 
@@ -92,3 +92,5 @@ antigravity-karpathy-skills/
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+The upstream project [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) declares the MIT License in its README, `plugin.json`, and `SKILL.md` frontmatter (it does not ship a separate `LICENSE` file).

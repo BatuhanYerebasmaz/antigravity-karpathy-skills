@@ -1,6 +1,7 @@
 ---
 name: karpathy-guidelines
 description: "Behavioral guidelines to reduce common LLM coding mistakes based on Andrej Karpathy's principles. Use when writing, reviewing, refactoring, or planning code changes to avoid overengineering, make surgical edits, surface hidden assumptions, and define verifiable success criteria."
+license: MIT
 ---
 
 # Karpathy Guidelines for Antigravity
